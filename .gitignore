@@ -1,0 +1,14 @@
+#ignore logging
+ERRFILES/
+OLD_MAPS/
+OUTFILES/
+NOVEMBER_MAPS/
+SWB_PYTHON/
+
+#ignore cruft
+scrontab*.txt
+temp.txt
+
+#ignore local running file
+submitReliabus.sh
+main_with_details.py
